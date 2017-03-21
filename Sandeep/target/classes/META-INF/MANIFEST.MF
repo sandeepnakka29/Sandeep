@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: interview
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: test.interview
+Build-Jdk: 1.7.0_79
+Built-By: JNB699
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/interview/
+

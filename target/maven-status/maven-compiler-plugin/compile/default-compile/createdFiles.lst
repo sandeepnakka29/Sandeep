@@ -1,0 +1,8 @@
+test/interview/dao/FileInfoRepository.class
+test/interview/InterviewApplication.class
+test/interview/jobs/MailService.class
+test/interview/jobs/UploadedFilesJob.class
+test/interview/service/FileUploadService.class
+test/interview/rest/controller/FileUploadController.class
+test/interview/dao/domain/FileInfo.class
+test/interview/jobs/MessageMetadata.class
